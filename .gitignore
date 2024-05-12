@@ -62,7 +62,6 @@ sysinfo.txt
 *.unitypackage
 *.app
 *.shader
-*.cginc
 
 # Crashlytics generated file
 crashlytics-build.properties
