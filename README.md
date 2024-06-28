@@ -2,7 +2,7 @@
 
 A short adventure game with engaging, unique, click to move combat system with a variety of levels and environments.
 
-Developed in Collaboration with Joel Biswas (no GitHub Account). We used Unity Version Control for this project, so commit history is not accurate to the actual development.
+Developed in Collaboration with @JoelBiswas. We used Unity Version Control for this project, so commit history is not accurate to the actual development.
 
 # Awards 
 
